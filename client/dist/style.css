@@ -1,3 +1,8 @@
 body {
   font-family: sans-serif, arial;
+  background-color: rgb(72, 119, 173);
+}
+
+.app {
+  background-color: darkslategray;
 }
